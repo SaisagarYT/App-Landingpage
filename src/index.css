@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+:root{
+    --parrot-green:#7CFC00;
+    --dark-green:#006400;
+    --gold:#FFD700;
+    --wihte:white;
+}
